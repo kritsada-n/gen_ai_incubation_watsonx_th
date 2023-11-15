@@ -1,6 +1,6 @@
-API_KEY=hP6809xRVZAAOv0cKAvHvCvhe9cBLhVLX5hxCp44U0R9
-IBM_CLOUD_URL=https://us-south.ml.cloud.ibm.com  
-PROJECT_ID=2701381
+API_KEY=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
+IBM_CLOUD_URL=https://cloud.ibm.com/
+PROJECT_ID=a6cd8865-5f60-4b68-895e-fe0aa0741c0d
 
 ibm-watson-machine-learning==1.0.327
 ipywidgets==8.0.7
